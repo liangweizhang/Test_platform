@@ -1,6 +1,6 @@
 <<<<<<< HEAD
 # labview
-利用labview实现与示波器通信多路采集控制.
+## 利用labview实现与示波器通信多路采集控制.
 =======
 1.针对labview实现仪器仪表控制。
       （1）针对keysight DSOX3014T示波器设计的电路选择采集：
